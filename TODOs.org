@@ -1,0 +1,6 @@
+* TODOs
+  :PROPERTIES:
+  :CATEGORY: elixir-lang
+  :END:
+** DONE research genserver
+   SCHEDULED: <2021-09-29 Wed>
